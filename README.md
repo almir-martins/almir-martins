@@ -19,9 +19,7 @@ Abaixo se encontram informações mais detalhadas sobre os projetos desenvolvido
 
 No rodapé da página estão minhas informações de contato para trabalho, projetos, idéias e sugestões.
 
-
 # Habilidades Técnicas
-
 
 ## Linguagens de Programação e Banco de Dados
 
@@ -30,6 +28,7 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 - Orientação a objetos
 - SQL para extração de dados
 - Banco de dados: conhecimentos de MySQL e Oracle
+- 
 ## Visualização de Dados
 
 - Matplotlib
@@ -43,19 +42,17 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 - Métricas de performance dos algoritmos (RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall, Curva ROC)
 - Pacotes de Machine Learning: Sklearn e Scipy
 
-
 ## Engenharia de Software
 - Git, Github, Gitlab, Virtual Environment
 - Streamlit, Python API's.
 - Cloud Heroku, AWS Amazon
 
-
 # Data Science Projects
 
-Prediction Sales Rossmann Stores
+## Prediction Sales Rossmann Stores
 
-A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. a minha estratégia foi utilizar modelos de machine learning para realizar a pevisão das lojas, sendo assim o resultado fica mais preciso e confiante. e o resultado dessa predição CFO prode requisitar através de um BOT no Telegram.
+A Rossmann opera mais de 3.000 drogarias em 7 países da Europa. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. Tarefa essa solicitada pelo CFO da Rossmann com a finalidae de prever os custos para reforma das lojas. Minha estratégia foi utilizar modelos de machine learning para realizar a previsão das vendas das lojas e a solução foi disponibilizar um BOT no aplicativo Telegram do qual o CFO pode fazer suas consultas interativamente. (em desenvolvimento)
 
-Projeto_Insight_House_Rocket
+## Projeto_Insight_House_Rocket
 
-House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio a minha estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço. Para facilitar a visualização dos imóveis recomendados, foi disponibilizado o Link de acesso ao CFO da House Rocket, foi desenvolvido o Dashboard interativo utilizando a ferramenta Streamlit.
+House Rocket é uma empresa fictícia que trabalha com compra e venda de imóveis. O objetivo é encontrar as melhores oportunidades de negócio comprando casas em ótimas condições por preços baixos e vendê-las a preços mais elevados. Alguns atributos das casas as tornam mais ou menos atrativas, influenciando na procura dos imóveis e consequentemente no seu preço. A solução final foi um Dashboard interativo para facilitar a visualização dos imóveis recomendados e o deployment dessa solução foi utilizando a ferramenta Streamlit. (em desenvolvimento)
