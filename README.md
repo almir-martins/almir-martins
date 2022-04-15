@@ -23,7 +23,7 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 # Habilidades Técnicas
 
 
-Linguagens de Programação e Banco de Dados
+## Linguagens de Programação e Banco de Dados
 
     Python com foco em análise de dados
     Web scraping com Python
@@ -33,10 +33,10 @@ Linguagens de Programação e Banco de Dados
 
 
 
-Visualização de Dados
-Matplotlib
-Seaborn
-Plotly
+## Visualização de Dados
+- Matplotlib
+- Seaborn
+- Plotly
 
 
 Estatística e Machine Learning
