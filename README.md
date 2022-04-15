@@ -25,36 +25,32 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 
 ## Linguagens de Programação e Banco de Dados
 
-    Python com foco em análise de dados
-    Web scraping com Python
-    Orientação a objetos
-    SQL para extração de dados
-    Banco de dados: conhecimentos de MySQL e Oracle
-
-
-
+- Python com foco em análise de dados
+- Web scraping com Python
+- Orientação a objetos
+- SQL para extração de dados
+- Banco de dados: conhecimentos de MySQL e Oracle
 ## Visualização de Dados
+
 - Matplotlib
 - Seaborn
 - Plotly
+## Estatística e Machine Learning
+
+- Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade)
+- Algoritmos de Regressão e classificação
+- Técnicas de balanceamento dos dados, seleção de atributos e redução de dimensionalidade
+- Métricas de performance dos algoritmos (RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall, Curva ROC)
+- Pacotes de Machine Learning: Sklearn e Scipy
 
 
-Estatística e Machine Learning
-
-    Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade)
-    Algoritmos de Regressão e classificação
-    Técnicas de balanceamento dos dados, seleção de atributos e redução de dimensionalidade
-    Métricas de performance dos algoritmos (RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall, Curva ROC)
-    Pacotes de Machine Learning: Sklearn e Scipy
+## Engenharia de Software
+- Git, Github, Gitlab, Virtual Environment
+- Streamlit, Python API's.
+- Cloud Heroku, AWS Amazon
 
 
-Engenharia de Software
-Git, Github, Gitlab, Virtual Environment
-Streamlit, Python API's.
-Cloud Heroku, AWS Amazon
-
-
-Data Science Projects
+# Data Science Projects
 
 Prediction Sales Rossmann Stores
 
