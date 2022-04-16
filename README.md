@@ -55,8 +55,10 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 
 ## [Prediction Sales Rossmann Stores](https://github.com/almir-martins/rossmann_sales_prediction)
 
-A Rossmann opera mais de 3.000 drogarias em 7 países da Europa. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. Tarefa essa solicitada pelo CFO da Rossmann com a finalidae de prever os custos para reforma das lojas. Minha estratégia foi utilizar modelos de machine learning para realizar a previsão das vendas das lojas e a solução foi disponibilizar um BOT no aplicativo Telegram do qual o CFO pode fazer suas consultas interativamente. (em desenvolvimento)
+A Rossmann opera mais de 3.000 drogarias em 7 países da Europa. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. Tarefa essa solicitada pelo CFO da Rossmann com a finalidae de prever os custos para reforma das lojas. Minha estratégia foi utilizar modelos de machine learning para realizar a previsão das vendas das lojas e a solução foi disponibilizar um BOT no aplicativo Telegram do qual o CFO pode fazer suas consultas interativamente.
+(em desenvolvimento)
 
 ## Projeto_Insight_House_Rocket
 
-House Rocket é uma empresa fictícia que trabalha com compra e venda de imóveis. O objetivo é encontrar as melhores oportunidades de negócio comprando casas em ótimas condições por preços baixos e vendê-las a preços mais elevados. Alguns atributos das casas as tornam mais ou menos atrativas, influenciando na procura dos imóveis e consequentemente no seu preço. A solução final foi um Dashboard interativo para facilitar a visualização dos imóveis recomendados e o deployment dessa solução foi utilizando a ferramenta Streamlit. (em desenvolvimento)
+House Rocket é uma empresa fictícia que trabalha com compra e venda de imóveis. O objetivo é encontrar as melhores oportunidades de negócio comprando casas em ótimas condições por preços baixos e vendê-las a preços mais elevados. Alguns atributos das casas as tornam mais ou menos atrativas influenciando na procura dos imóveis e consequentemente no seu preço. A solução final foi um Dashboard interativo para facilitar a visualização dos imóveis recomendados e o deployment dessa solução foi utilizando a ferramenta Streamlit.
+(em desenvolvimento)
