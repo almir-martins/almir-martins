@@ -38,7 +38,7 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
   
 ## Estatística e Machine Learning
 
-- Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade)
+- Estatística descritiva (tendência central, dispersão, assimetria, kurtosis)
 - Algoritmos de Regressão e classificação
 - Técnicas de balanceamento dos dados, seleção de atributos e redução de dimensionalidade
 - Métricas de performance dos algoritmos (RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall, Curva ROC)
@@ -46,8 +46,9 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 
 ## Engenharia de Software
 
-- Git, Github, Gitlab, Virtual Environment
-- Streamlit, Python API's.
+- Git, Github, Gitlab
+- Virtual Environments
+- Streamlit, Python API's
 - Cloud Heroku, AWS Amazon
 
 # Data Science Projects
