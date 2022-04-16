@@ -53,7 +53,7 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 
 # Data Science Projects
 
-## Prediction Sales Rossmann Stores
+## [Prediction Sales Rossmann Stores](https://github.com/almir-martins/rossmann_sales_prediction)
 
 A Rossmann opera mais de 3.000 drogarias em 7 países da Europa. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. Tarefa essa solicitada pelo CFO da Rossmann com a finalidae de prever os custos para reforma das lojas. Minha estratégia foi utilizar modelos de machine learning para realizar a previsão das vendas das lojas e a solução foi disponibilizar um BOT no aplicativo Telegram do qual o CFO pode fazer suas consultas interativamente. (em desenvolvimento)
 
