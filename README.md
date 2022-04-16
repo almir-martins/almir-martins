@@ -8,8 +8,8 @@ Sou formado em Análise e desenvolvimento de sistemas pela Universidade 9 de Jul
 
 Sou cofundador e coapresentador do podcast Show me the Data, que nasceu dentro da Comunidade DS que é a instituição de ensino de Data science do Meigarom Lopes e que posteriormente cresceu e expandimos para um canal próprio no Youtube. O podcast veio da ideia de criar um canal de conteúdos relevantes sobre ciência de dados e assuntos correlatos, tanto do ponto de vista de especialistas quanto de quem está começando na carreira ou estudando.
 
-Link do Podcast no Spotify
-Link do Podcast no Youtube
+[Link do Podcast no Spotify](https://open.spotify.com/show/3r8q951VgKYMjr4NQnrdy6?si=781fb7ad116a4809)
+[Link do Podcast no Youtube](https://www.youtube.com/channel/UC6jgfldfzElILFVZl1SCOTw/featured)
 
 Em minha experiência anterior passei por várias áreas como operações logística, supervisão de equipes, gerência de unidades, coordenação, qualidade e comercial. Desenvolvi trabalhos e competências como gerenciamento de equipes e recursos, implantação e controle de processos de qualidades, redução e otimização de custos, inovação dos processos logísticos, manutenção de clientes, contratos comerciais.
 
@@ -34,6 +34,7 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 - Matplotlib
 - Seaborn
 - Plotly
+- 
 ## Estatística e Machine Learning
 
 - Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade)
@@ -43,6 +44,7 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 - Pacotes de Machine Learning: Sklearn e Scipy
 
 ## Engenharia de Software
+
 - Git, Github, Gitlab, Virtual Environment
 - Streamlit, Python API's.
 - Cloud Heroku, AWS Amazon
