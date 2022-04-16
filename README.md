@@ -29,13 +29,13 @@ No rodapé da página estão minhas informações de contato para trabalho, proj
 - Orientação a objetos
 - SQL para extração de dados
 - Banco de dados: conhecimentos de MySQL e Oracle
-- 
+  
 ## Visualização de Dados
 
 - Matplotlib
 - Seaborn
 - Plotly
-- 
+  
 ## Estatística e Machine Learning
 
 - Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade)
