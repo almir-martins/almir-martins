@@ -1,6 +1,6 @@
 # Olá, seja muito bem-vindo (a) ao meu GitHub!
 
-Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados através de projetos com dados públicos e projetos pessoais. Você vai encontrar minhas habilidades, ferramentas e conceitos envolvendo a Ciência de Dados. Sinta-se à vontade para entrar em contato através dos links no final da página.
+Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados através de projetos com dados públicos e projetos pessoais. Aqui se encontra parte de meus conhecimentos, ferramentas e conceitos envolvendo a Ciência de Dados. Sinta-se à vontade para entrar em contato através dos links no final da página.
 
 # Sobre mim
 
